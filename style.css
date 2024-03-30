@@ -8,39 +8,18 @@ html, body{
     height: 100%;
     width:  100%;
 }
-/* .box1{
-    height: 100px;
-    width:  384px;
-    background-color: blue;
-}
-.box2{
-    height: 100px;
-    width:  384px;
-    background-color: aqua;
-}
-.box3{
-    height: 500px;
-    width:  384px;
-    background-color: aliceblue;
-} */
+
 .Navbar1{
     display: flex;
     color: rgb(255, 255, 255);
-    /* background: -webkit-linear-gradient(#1e00ff, #ffde07);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent */
-    
+   
 }
 .navbar2{
-    /* height: 100%;
-    width: 100%; */
-    /* background-color: linear-gradient(to bottom right, red, yellow); */
-    /* margin-left: 180px; */
+   
     display: flex;
     justify-content: space-evenly;
     
-    /* border-radius: 6px; */
-    /* align-items: center; */
+   
     padding: 20px;
     z-index: 9;
     position: absolute;
@@ -107,7 +86,7 @@ html, body{
     top:3.5% ;
 }
 #img1{
-    rotate:15deg;
+    rotate:20deg;
 
 }
 #img2{

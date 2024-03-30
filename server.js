@@ -35,10 +35,8 @@ gsap.from(".port",
 
 })
 
-// gsap.from("#myimg",{
-//       rotate:45,
-//       duration:2
-// })
+
+
 
 gsap.from("#myimg img",{
       rotate:45,
